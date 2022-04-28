@@ -14,6 +14,8 @@ const Home: NextPage = () => {
           <p className="text-center p-5">and editing <code>index.tsx</code></p>
         </div>
       </div>
+      
+      
    </>
   )
 }
